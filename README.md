@@ -143,6 +143,9 @@ streamlit run app.py
 * Cloud Deployment
 
 ---
+## Streamlit App
+
+https://fmcg-ai-business-assistant-ifz4ziudt6g3zgxgikp368.streamlit.app/
 
 ## Author
 
