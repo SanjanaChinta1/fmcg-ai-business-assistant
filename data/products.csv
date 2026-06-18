@@ -1,0 +1,16 @@
+product_id,product_name,brand,category,sub_category,pack_size_ml,unit_price
+BEV001,Spark Lemon Water,AquaFresh,Water,Sparkling Water,500,40
+BEV002,Spark Orange Water,AquaFresh,Water,Sparkling Water,500,42
+BEV003,Pure Mineral Water,AquaFresh,Water,Mineral Water,1000,25
+BEV004,Mango Juice,FruitBurst,Juice,Fruit Juice,500,60
+BEV005,Apple Juice,FruitBurst,Juice,Fruit Juice,500,55
+BEV006,Mixed Fruit Juice,FruitBurst,Juice,Fruit Juice,1000,95
+BEV007,Power Energy,ChargeUp,Energy,Energy Drink,250,80
+BEV008,Max Energy,ChargeUp,Energy,Sports Drink,250,85
+BEV009,Electro Boost,ChargeUp,Energy,Sports Drink,500,90
+BEV010,Cola Blast,FizzCo,Carbonated,Soft Drink,500,45
+BEV011,Orange Fizz,FizzCo,Carbonated,Soft Drink,500,45
+BEV012,Lemon Soda,FizzCo,Carbonated,Soft Drink,500,40
+BEV013,Fresh Milk,DairyPure,Dairy,Milk,1000,50
+BEV014,Chocolate Milk,DairyPure,Dairy,Flavoured Milk,500,65
+BEV015,Vanilla Shake,DairyPure,Dairy,Milkshake,500,75
